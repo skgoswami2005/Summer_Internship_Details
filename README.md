@@ -85,10 +85,29 @@ Budget Buddy is a mobile application developed during my internship at Jatayu Te
 ## Features
 
 - **Home Screen:** Displays total balance, income, expenses, and recent transactions.
-  ![image info](App Screenshots/Home Screen)
+
+  <img src="https://github.com/skgoswami2005/Summer_Internship_Details/blob/main/App_Screenshots/Home_Screen.png" width=250 />
+  
 - **Transactions Screen:** Lists all transactions with search and filter options.
+
+  <img src="https://github.com/skgoswami2005/Summer_Internship_Details/blob/main/App_Screenshots/Transactions_Screen.png" width= 250/>
+
 - **Profile Screen:** Shows user details with logout functionality.
+
+  <img src="https://github.com/skgoswami2005/Summer_Internship_Details/blob/main/App_Screenshots/Profile_Screen.png" width=250 />
+
 - **New Transaction Screen:** Allows users to add new transactions with title, amount, category, and date.
+
+  <img src="https://github.com/skgoswami2005/Summer_Internship_Details/blob/main/App_Screenshots/New_Transactions_Screen_1.png" width=250 />
+  <img src="https://github.com/skgoswami2005/Summer_Internship_Details/blob/main/App_Screenshots/New_Transactions_Screen_2.png" width=250 />
+
+- **Login Page:**Allows users to log in using email and password
+
+  <img src="https://github.com/skgoswami2005/Summer_Internship_Details/blob/main/App_Screenshots/Login_Screen.png" width=250 />
+
+- **Sign Up Page:**Allows users to create new account
+
+  <img src="https://github.com/skgoswami2005/Summer_Internship_Details/blob/main/App_Screenshots/Sign_up_Screen.png" width=250 />
 
 ## Conclusion
 
