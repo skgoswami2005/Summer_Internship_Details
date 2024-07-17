@@ -85,6 +85,7 @@ Budget Buddy is a mobile application developed during my internship at Jatayu Te
 ## Features
 
 - **Home Screen:** Displays total balance, income, expenses, and recent transactions.
+  ![image info](App Screenshots/Home Screen)
 - **Transactions Screen:** Lists all transactions with search and filter options.
 - **Profile Screen:** Shows user details with logout functionality.
 - **New Transaction Screen:** Allows users to add new transactions with title, amount, category, and date.
