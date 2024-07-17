@@ -101,11 +101,11 @@ Budget Buddy is a mobile application developed during my internship at Jatayu Te
   <img src="https://github.com/skgoswami2005/Summer_Internship_Details/blob/main/App_Screenshots/New_Transactions_Screen_1.png" width=250 />
   <img src="https://github.com/skgoswami2005/Summer_Internship_Details/blob/main/App_Screenshots/New_Transactions_Screen_2.png" width=250 />
 
-- **Login Page:**Allows users to log in using email and password
+- **Login Page:** Allows users to log in using email and password
 
   <img src="https://github.com/skgoswami2005/Summer_Internship_Details/blob/main/App_Screenshots/Login_Screen.png" width=250 />
 
-- **Sign Up Page:**Allows users to create new account
+- **Sign Up Page:** Allows users to create new account
 
   <img src="https://github.com/skgoswami2005/Summer_Internship_Details/blob/main/App_Screenshots/Sign_up_Screen.png" width=250 />
 
